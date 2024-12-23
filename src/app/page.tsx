@@ -1,5 +1,9 @@
+import Navbar from "./components/navbar/page";
+
+
 export default function myname() {
-  return <div>
-<h1>As salamoekom world!</h1>
+  return <div> 
+    <Navbar/>
+    
   </div>
 }
